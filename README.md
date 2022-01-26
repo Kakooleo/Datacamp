@@ -1,2 +1,2 @@
 # Datacamp
-Datacamp's projects
+Projects developed while studying data science with python in Datacamp.
